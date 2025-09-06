@@ -3,7 +3,7 @@ setVar: qiShuFavor = 0; 奇书的好感度
 setVar: shuMeiFavor = 0; 淑梅的好感度
 setVar: webNP_QQ_ID =(webnp_qq_id); 网协QQ迎新群群号
 getUserInput: username -title=能回忆起来你是谁吗 -buttonText=我的名字如上;
-: 了解desu~，开始游戏吧;
+: 了解desu~，那就开始游戏吧;
 : ...;
 {username}: （就是这里了）;
 {username}: （深吸气）;
@@ -59,7 +59,7 @@ changeBg: campus.jpeg -next;
 : 校园很大，有图书馆，实验室，体育馆，还有很多教学楼;
 : 你很尽兴，但关于之后还发生了什么，你就没有其他详细记忆了;
 changeBg: -next;
-callScene: single-scene1.txt;
+callScene: single-game.txt;
 jumpLabel: end_game;
 label: visit_campus_yes;
 : 好啊，一块去参观校园吧;
