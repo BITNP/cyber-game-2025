@@ -59,7 +59,7 @@ changeBg: campus.jpeg -next;
 : 校园很大，有图书馆，实验室，体育馆，还有很多教学楼;
 : 你很尽兴，但关于之后还发生了什么，你就没有其他详细记忆了;
 changeBg: -next;
-callScene: single-game.txt;
+callScene: single-game2.txt;
 jumpLabel: end_game;
 label: visit_campus_yes;
 : 好啊，一块去参观校园吧;
