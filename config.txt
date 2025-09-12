@@ -3,6 +3,6 @@ Game_key:6ca9d3f0a8ce3e8;
 Title_img:WebGAL_New_Enter_Image.webp;
 Title_bgm:s_Title.mp3;
 Textbox_theme:imss;
-webnp_qq_id:——抱歉我忘啦;
+webnp_qq_id:1054434924;
 Enable_Appreciation:false;
 Show_panic:true;
