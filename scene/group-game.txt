@@ -98,4 +98,4 @@ choose: （又听到她的密码了）|（这根本就不可能记得住的吧�
 奇书: （笑）;
 淑梅: 说到密码，我有一个妹妹特别喜欢给我出谜题让我解密呢……;
 : 于是那天你们又聊了很久……;
-callScene: group-scene2;
+callScene: group-game2.txt;
