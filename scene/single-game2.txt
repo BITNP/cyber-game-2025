@@ -90,3 +90,4 @@ changeBg: -next;
 : ……;
 : 后来，你听说有人 QQ 被盗号了，听说有一个钓鱼网站（请不要在任何可以网站输入自己的隐私信息哦）。不过那和你也没什么关系了。;
 label: end_single_game2;
+callScene: HE-single-end.txt;
