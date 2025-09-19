@@ -1,4 +1,9 @@
+miniAvatar: none;
+changeBg: good-ending.png;
+changeFigure: none -left;
+changeFigure: none;
+changeFigure: none -right;
 intro: 好结局：顺利安全一学期;
 setVar: bonus = qiShuFavor + shuMeiFavor;
-你的得分为： {score} (+ {bonus} * 0.01) 分;
-欢迎您的下次游玩，再会！;
+:你的得分为： {score} (+ *{bonus}) 分;
+:欢迎您的下次游玩，再会！;

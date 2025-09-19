@@ -1,1 +1,7 @@
+miniAvatar: none;
+changeBg: bad-ending.png;
+changeFigure: none -left;
+changeFigure: none;
+changeFigure: none -right;
 intro: 非常坏结局：社会性死亡。;
+: 回到开始界面，重新开始挑战吧。;

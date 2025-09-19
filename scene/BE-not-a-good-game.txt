@@ -1,1 +1,7 @@
+miniAvatar: none;
+changeBg: bad-ending.png;
+changeFigure: none -left;
+changeFigure: none;
+changeFigure: none -right;
 intro: 坏结局：你好小丑。;
+: 回到开始界面，重新开始挑战吧。;
